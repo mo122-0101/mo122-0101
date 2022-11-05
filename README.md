@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mo122-0101
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently keep learning flutter   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mohammedtawhied@gmail.com
 
